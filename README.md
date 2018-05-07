@@ -5,8 +5,9 @@ Lombok 是一个可以通过简单的注解形式来帮助我们简化消除一�
 github地址： [https://github.com/rzwitserloot/lombok](https://github.com/rzwitserloot/lombok) 
 
 ## Lombok安装
-1. 下载 Lombok （1.16.20）
-2.  在 eclipse.ini 文件末尾添加  
+1. 下载 Lombok （1.16.20）  
+ 将jar包放到 eclipse 路径  
+2.  在 eclipse.ini (如果用STS，那么需要修改STS.int文件) 文件末尾添加  
 
 	-javaagent:lombok-1.16.20.jar  
 
