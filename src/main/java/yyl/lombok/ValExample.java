@@ -13,9 +13,9 @@ public class ValExample {
 	}
 
 	public static void example01() {
-		val example = new ArrayList<String>();
-		example.add("Hello, World!");
-		System.out.println(example);
+		val list = new ArrayList<String>();
+		list.add("Hello, World!");
+		System.out.println(list);
 	}
 
 	public static void example02() {

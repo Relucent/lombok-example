@@ -12,9 +12,9 @@ public class ValExample {
 	}
 
 	public static void example01() {
-		ArrayList<String> example = new ArrayList<>();
-		example.add("Hello, World!");
-		System.out.println(example);
+		ArrayList<String> list = new ArrayList<>();
+		list.add("Hello, World!");
+		System.out.println(list);
 	}
 
 	public static void example02() {
